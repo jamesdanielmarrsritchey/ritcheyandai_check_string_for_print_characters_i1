@@ -1,0 +1,1 @@
+# ritcheyandai_check_string_for_print_characters_i1
